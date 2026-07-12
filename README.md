@@ -34,6 +34,7 @@ docs/
   16-examples.md
   17-ai-workflow.md
   18-ponytail-code-generation.md
+  19-default-profiles.md
 examples/
   dashboard.sl
   product-list.sl
@@ -45,9 +46,10 @@ templates/
   page.sl
   profile.sl
   profile-nextjs-shadcn.sl
-  profile-vue-ant-design.sl
+  profile-vue-ant-design-vue.sl
   profile-taro-react-nutui-wechat.sl
   profile-tauri-vite-react-shadcn.sl
+  profile-tauri-vite-vue-ant-design-vue.sl
 ```
 
 ## 阅读顺序
@@ -63,7 +65,8 @@ templates/
 8. docs/13-profile-target.md
 9. docs/17-ai-workflow.md
 10. docs/18-ponytail-code-generation.md
-11. examples/*.sl
+11. docs/19-default-profiles.md
+12. examples/*.sl
 ```
 
 ## AI 两阶段流程
